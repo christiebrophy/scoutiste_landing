@@ -86,7 +86,7 @@
 
 
 
-.cityintro1 {
+.intro1 {
   margin:1% 0 0 0;
   color:#333;
   font-family: 'UniformExtraCondensedBold-Bold';
@@ -95,14 +95,14 @@
   text-transform: uppercase;
 }
 
-.cityintro2 {
+.intro2 {
   color:#333;
   font-family: 'UniformExtraCondensedMedium-Medium';
   font-weight: normal;
   font-size: .7em;
 }
 
-.cityintro3 {
+.intro3 {
   color:#333;
   font-family: 'UniformExtraCondensedBold-Bold';
   font-weight: normal;
@@ -110,7 +110,7 @@
   text-transform: uppercase;
 }
 
-.cityintro4 {
+.intro4 {
   color:#333;
   font-family: 'UniformExtraCondensedBold-Bold';
   font-weight: normal;
@@ -118,25 +118,33 @@
   
 }
 
-.cityintro5 {
+.intro5 {
   color:#333;
   font-family: 'UniformExtraCondensedMedium-Medium';
   font-weight: normal;
   font-size: .55em;
 }
 
-.cityintro6 {
+.intro6 {
   color:#333;
   font-family: 'UniformExtraCondensedMedium-Medium';
   font-weight: normal;
   font-size: 1.30em;
 }
 
-.cityintro7 {
+.intro7 {
   color:#333;
   font-family: 'UniformUltra-Ultra';
   font-weight: normal;
   font-size: 1.20em;
+  text-transform: uppercase;
+}
+
+.intro8 {
+  color:#333;
+  font-family: 'UniformExtraCondensedBold-Bold';
+  font-weight: normal;
+  font-size: .65em;
   text-transform: uppercase;
 }
 
@@ -173,8 +181,8 @@ float:none;
     border: 1px solid transparent;
     font-family: 'UniformUltra-Ultra';
     font-weight: normal;
-    width: 50%;
-    font-size: 1.5em;
+    width: 30%;
+    font-size: 1.2em;
 }
 
 .btn-primary {
